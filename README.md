@@ -1,16 +1,21 @@
-## Hi there 👋
+Ivan Khoroshilov
+Go Backend / AI-assisted Development
 
-<!--
-**barnigator/barnigator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Eshop — Microservices Marketplace
 
-Here are some ideas to get you started:
+Учебный микросервисный backend-проект интернет-магазина,
+разрабатываемый на Go с использованием Codex / vibe coding.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Go • gRPC • PostgreSQL • Docker • JWT • Protocol Buffers
+
+[Architecture diagram]
+
+Repositories:
+
+🌐 eshop-api-gateway
+🔐 sso
+🏪 eshop-seller-service
+📦 eshop-catalog-service
+🖼 eshop-media-service
+📜 protos
+🐳 eshop-infra## Hi there 👋
